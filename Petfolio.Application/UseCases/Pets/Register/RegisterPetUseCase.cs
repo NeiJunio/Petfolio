@@ -4,7 +4,8 @@ using Petfolio.Communication.Responses;
 namespace Petfolio.Application.UseCases.Pets.Register;
 public class RegisterPetUseCase
 {
-    public ResponseRegisterPetJson Execute(RequestRegisterPetJson request)
+    public ResponseRegisterPetJson Execute(RequestPetJson
+ request)
     {
         return new ResponseRegisterPetJson
         {
