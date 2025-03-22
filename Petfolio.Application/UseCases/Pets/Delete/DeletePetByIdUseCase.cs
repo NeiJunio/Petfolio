@@ -1,9 +1,9 @@
-namespace Petfolio.Application.UseCases.Pets.Delete
+namespace Petfolio.Application.UseCases.Pets.Delete;
+
+public class DeletePetByIdUseCase
 {
-    public class DeletePetByIdUseCase
+    public void Execute(int id)
     {
-        public void Execute(int id){
-            // Regra de negócios
-        }
+        // Regra de negócios
     }
 }

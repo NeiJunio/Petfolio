@@ -17,8 +17,7 @@ public class PetController : ControllerBase
     [HttpPost]
     [ProducesResponseType(typeof(ResponseRegisterPetJson), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
-    public IActionResult Register([FromBody] RequestPetJson
- request)
+    public IActionResult Register([FromBody] RequestPetJson request)
     {
         var useCase = new RegisterPetUseCase(); // Cria uma instância direcionada para a classe RegisterPetUseCase
 
@@ -32,8 +31,7 @@ public class PetController : ControllerBase
     [Route("{id}")]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
     [ProducesResponseType(typeof(ResponseErrorsJson), StatusCodes.Status400BadRequest)]
-    public IActionResult Update([FromRoute] int id, [FromBody] RequestPetJson
- request)
+    public IActionResult Update([FromRoute] int id, [FromBody] RequestPetJson request)
     {
         var useCase = new UpdatePetUseCase();
 

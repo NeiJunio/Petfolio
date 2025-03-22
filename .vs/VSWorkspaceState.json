@@ -3,8 +3,11 @@
     "",
     "\\Petfolio.API",
     "\\Petfolio.API\\Controllers",
-    "\\Petfolio.Application"
+    "\\Petfolio.Application",
+    "\\Petfolio.Application\\UseCases",
+    "\\Petfolio.Application\\UseCases\\Pets",
+    "\\Petfolio.Application\\UseCases\\Pets\\Delete"
   ],
-  "SelectedNode": "\\Petfolio.sln",
+  "SelectedNode": "\\Petfolio.Application\\UseCases\\Pets\\Delete\\DeletePetByIdUseCase.cs",
   "PreviewInSolutionExplorer": false
 }

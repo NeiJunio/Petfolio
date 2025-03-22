@@ -31,7 +31,6 @@ C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\stati
 C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Petfolio.API.props
 C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Petfolio.API.props
 C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.223A59F0.Up2Date
 C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.dll
 C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\refint\Petfolio.API.dll
@@ -78,3 +77,4 @@ C:\Users\User\Documents\GitHub\Petfolio\Petfolio.API\obj\Debug\net8.0\staticweba
 C:\Users\User\Documents\GitHub\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.223A59F0.Up2Date
 C:\Users\User\Documents\GitHub\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.genruntimeconfig.cache
 C:\Users\User\Documents\GitHub\Petfolio\Petfolio.API\obj\Debug\net8.0\ref\Petfolio.API.dll
+C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.sourcelink.json

@@ -29,3 +29,4 @@ C:\Users\User\Documents\GitHub\Petfolio\Petfolio.Application\obj\Debug\net8.0\Pe
 C:\Users\User\Documents\GitHub\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
 C:\Users\User\Documents\GitHub\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
 C:\Users\User\Documents\GitHub\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
+C:\Users\Nei Junio\Documents\Github\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json
